@@ -21,7 +21,7 @@ else if(randomNum > 25 && randomNum < 42){
   System.out.println("Cannonball!");
 }
 else{
-  System.out.println("Blast off!")
+  System.out.println("Blast off!");
 }
   }
 }
