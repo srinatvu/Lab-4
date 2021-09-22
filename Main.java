@@ -17,8 +17,11 @@ for (int i = randomNum;i>=0;i--){
 if (randomNum <= 5){
   System.out.println("Ahoy mateys!");
 }
-if(randomNum > 25 && randomNum < 42){
+else if(randomNum > 25 && randomNum < 42){
   System.out.println("Cannonball!");
+}
+else{
+  System.out.println("Blast off!")
 }
   }
 }
